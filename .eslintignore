@@ -1,0 +1,11 @@
+node_modules
+.nexs
+publis
+next-env.d.ts
+babel.config.js
+jest/jest.setup.ts
+jest/jest.setupAfterEnv.ts
+jest.config.js
+coverage
+tailwind.config.js
+postcss.config.js
